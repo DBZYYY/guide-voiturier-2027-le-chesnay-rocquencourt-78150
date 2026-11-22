@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://le-chesnay-rocquencourt-78150.maisonvalet.fr/sitemap.xml
